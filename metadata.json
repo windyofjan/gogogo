@@ -1,0 +1,6 @@
+{
+  "name": "여행 정산 계산기",
+  "description": "대만 타이중(Taichung) 여행 맞춤형 N빵 및 경비 정산 계산기. 실시간 동기화와 직관적인 송금 안내를 지원합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
